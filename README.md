@@ -14,6 +14,6 @@ f: story?
 
 f: yea(but_		what happened?)
 
-  q: that.is #what i am ASK(ing)
+	q: that.is #what i am ASK(ing)
   
 f: oh...
